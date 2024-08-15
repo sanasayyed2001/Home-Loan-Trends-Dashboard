@@ -1,5 +1,5 @@
 <body>
-<h1>Home Loan Trends Dashboard</h1>
+<h1>Interactive Dashboard for Home Loan Data Analysis</h1>
 <h2>Overview</h2>
 <p>This repository involves the analysis of a home loan dataset from Kaggle for the development of an interactive dashboard using Power BI. The dashboard provides detailed insights into various metrics such as loan applications, sanctions, disbursements, and recoveries, aiding in informed decision-making and strategic planning.</p>
 <h2>Problem Statement</h2>
