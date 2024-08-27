@@ -46,7 +46,9 @@
     </li>
 </ul>
 <h2>Dashboard</h2>
-<p>Explore the interactive dashboard to gain insights into home loan trends and performance.</p> 
+<p>Explore the interactive dashboard to gain insights into home loan trends and performance.
+<img src="https://example.com/images/dashboard.png" alt="Home Loan Trends Dashboard" width="800">
+</p> 
 <h2>Suggestions</h2>
 <ul>
     <li>Optimize Online Channels: Given the high contribution of online channels, further investment in online marketing and customer acquisition strategies could enhance application rates.</li>
